@@ -9,7 +9,7 @@ There are two levels in the game:
 
 ### Created Using
 This section should include a list of any major frameworks that you used to build your project. Any add-ons/plugins should be saved for the acknowledgements section. Here are several examples:
-* Vanilla flavor
+* Vanilla flavor JavaSctipt
 * HTML 
 * CSS  
-* avaSctipt
+
